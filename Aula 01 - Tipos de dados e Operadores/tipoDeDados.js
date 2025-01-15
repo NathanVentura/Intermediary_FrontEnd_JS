@@ -10,5 +10,4 @@ if (typeof(nomeAluno) == "string"){
   console.log("Você precisa usar uma string")
 }
 
-// Operador
 
